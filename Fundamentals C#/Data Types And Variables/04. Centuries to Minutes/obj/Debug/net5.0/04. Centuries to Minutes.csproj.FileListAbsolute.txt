@@ -1,0 +1,15 @@
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.exe
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.deps.json
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.runtimeconfig.json
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.dll
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\bin\Debug\net5.0\ref\04. Centuries to Minutes.dll
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.pdb
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.AssemblyInfo.cs
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.dll
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\obj\Debug\net5.0\ref\04. Centuries to Minutes.dll
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.pdb
+C:\Users\Kras\source\repos\Data Types And Variables\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.genruntimeconfig.cache

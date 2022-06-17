@@ -1,0 +1,15 @@
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\bin\Debug\net5.0\03. Elevator.exe
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\bin\Debug\net5.0\03. Elevator.deps.json
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\bin\Debug\net5.0\03. Elevator.runtimeconfig.json
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\bin\Debug\net5.0\03. Elevator.runtimeconfig.dev.json
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\bin\Debug\net5.0\03. Elevator.dll
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\bin\Debug\net5.0\ref\03. Elevator.dll
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\bin\Debug\net5.0\03. Elevator.pdb
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\obj\Debug\net5.0\03. Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\obj\Debug\net5.0\03. Elevator.AssemblyInfoInputs.cache
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\obj\Debug\net5.0\03. Elevator.AssemblyInfo.cs
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\obj\Debug\net5.0\03. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\obj\Debug\net5.0\03. Elevator.dll
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\obj\Debug\net5.0\ref\03. Elevator.dll
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\obj\Debug\net5.0\03. Elevator.pdb
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\03. Elevator\obj\Debug\net5.0\03. Elevator.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\bin\Debug\net5.0\09. Chars to String.exe
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\bin\Debug\net5.0\09. Chars to String.deps.json
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\bin\Debug\net5.0\09. Chars to String.runtimeconfig.json
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\bin\Debug\net5.0\09. Chars to String.runtimeconfig.dev.json
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\bin\Debug\net5.0\09. Chars to String.dll
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\bin\Debug\net5.0\ref\09. Chars to String.dll
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\bin\Debug\net5.0\09. Chars to String.pdb
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\obj\Debug\net5.0\09. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\obj\Debug\net5.0\09. Chars to String.AssemblyInfoInputs.cache
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\obj\Debug\net5.0\09. Chars to String.AssemblyInfo.cs
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\obj\Debug\net5.0\09. Chars to String.csproj.CoreCompileInputs.cache
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\obj\Debug\net5.0\09. Chars to String.dll
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\obj\Debug\net5.0\ref\09. Chars to String.dll
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\obj\Debug\net5.0\09. Chars to String.pdb
+C:\Users\Kras\source\repos\Data Types And Variables\09. Chars to String\obj\Debug\net5.0\09. Chars to String.genruntimeconfig.cache

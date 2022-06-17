@@ -1,0 +1,16 @@
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\bin\Debug\net5.0\1. Day of Week.exe
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\bin\Debug\net5.0\1. Day of Week.deps.json
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\bin\Debug\net5.0\1. Day of Week.runtimeconfig.json
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\bin\Debug\net5.0\1. Day of Week.runtimeconfig.dev.json
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\bin\Debug\net5.0\1. Day of Week.dll
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\bin\Debug\net5.0\ref\1. Day of Week.dll
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\bin\Debug\net5.0\1. Day of Week.pdb
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.csproj.AssemblyReference.cache
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.AssemblyInfoInputs.cache
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.AssemblyInfo.cs
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.dll
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\obj\Debug\net5.0\ref\1. Day of Week.dll
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.pdb
+C:\Users\Kras\source\repos\Arrays Lab\1. Day of Week\obj\Debug\net5.0\1. Day of Week.genruntimeconfig.cache

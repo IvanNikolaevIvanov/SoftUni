@@ -1,0 +1,16 @@
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.exe
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.deps.json
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.runtimeconfig.json
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.runtimeconfig.dev.json
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.dll
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\bin\Debug\net5.0\ref\06. Triples of Latin Letters.dll
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.pdb
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.csproj.AssemblyReference.cache
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.AssemblyInfoInputs.cache
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.AssemblyInfo.cs
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.dll
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\obj\Debug\net5.0\ref\06. Triples of Latin Letters.dll
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.pdb
+C:\Users\Kras\source\repos\Data Types And Variables Excersise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\bin\Debug\net5.0\GuiniePig.exe
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\bin\Debug\net5.0\GuiniePig.deps.json
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\bin\Debug\net5.0\GuiniePig.runtimeconfig.json
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\bin\Debug\net5.0\GuiniePig.runtimeconfig.dev.json
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\bin\Debug\net5.0\GuiniePig.dll
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\bin\Debug\net5.0\ref\GuiniePig.dll
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\bin\Debug\net5.0\GuiniePig.pdb
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\obj\Debug\net5.0\GuiniePig.csproj.AssemblyReference.cache
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\obj\Debug\net5.0\GuiniePig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\obj\Debug\net5.0\GuiniePig.AssemblyInfoInputs.cache
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\obj\Debug\net5.0\GuiniePig.AssemblyInfo.cs
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\obj\Debug\net5.0\GuiniePig.csproj.CoreCompileInputs.cache
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\obj\Debug\net5.0\GuiniePig.dll
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\obj\Debug\net5.0\ref\GuiniePig.dll
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\obj\Debug\net5.0\GuiniePig.pdb
+C:\Users\Kras\source\repos\Mid-exam Prep\ConsoleApp4\obj\Debug\net5.0\GuiniePig.genruntimeconfig.cache

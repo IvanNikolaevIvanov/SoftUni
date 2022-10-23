@@ -1,0 +1,16 @@
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\bin\Debug\net5.0\2.0 Emoji Detector.exe
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\bin\Debug\net5.0\2.0 Emoji Detector.deps.json
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\bin\Debug\net5.0\2.0 Emoji Detector.runtimeconfig.json
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\bin\Debug\net5.0\2.0 Emoji Detector.runtimeconfig.dev.json
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\bin\Debug\net5.0\2.0 Emoji Detector.dll
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\bin\Debug\net5.0\ref\2.0 Emoji Detector.dll
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\bin\Debug\net5.0\2.0 Emoji Detector.pdb
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\obj\Debug\net5.0\2.0 Emoji Detector.csproj.AssemblyReference.cache
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\obj\Debug\net5.0\2.0 Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\obj\Debug\net5.0\2.0 Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\obj\Debug\net5.0\2.0 Emoji Detector.AssemblyInfo.cs
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\obj\Debug\net5.0\2.0 Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\obj\Debug\net5.0\2.0 Emoji Detector.dll
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\obj\Debug\net5.0\ref\2.0 Emoji Detector.dll
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\obj\Debug\net5.0\2.0 Emoji Detector.pdb
+C:\Users\Kras\source\repos\Final-exam Prep\2.0 Emoji Detector\obj\Debug\net5.0\2.0 Emoji Detector.genruntimeconfig.cache

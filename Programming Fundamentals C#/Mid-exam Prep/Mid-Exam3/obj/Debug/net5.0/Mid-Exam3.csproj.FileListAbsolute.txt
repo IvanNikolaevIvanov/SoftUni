@@ -1,0 +1,16 @@
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\bin\Debug\net5.0\Mid-Exam3.exe
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\bin\Debug\net5.0\Mid-Exam3.deps.json
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\bin\Debug\net5.0\Mid-Exam3.runtimeconfig.json
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\bin\Debug\net5.0\Mid-Exam3.runtimeconfig.dev.json
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\bin\Debug\net5.0\Mid-Exam3.dll
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\bin\Debug\net5.0\ref\Mid-Exam3.dll
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\bin\Debug\net5.0\Mid-Exam3.pdb
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\obj\Debug\net5.0\Mid-Exam3.csproj.AssemblyReference.cache
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\obj\Debug\net5.0\Mid-Exam3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\obj\Debug\net5.0\Mid-Exam3.AssemblyInfoInputs.cache
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\obj\Debug\net5.0\Mid-Exam3.AssemblyInfo.cs
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\obj\Debug\net5.0\Mid-Exam3.csproj.CoreCompileInputs.cache
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\obj\Debug\net5.0\Mid-Exam3.dll
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\obj\Debug\net5.0\ref\Mid-Exam3.dll
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\obj\Debug\net5.0\Mid-Exam3.pdb
+C:\Users\Kras\source\repos\Mid-exam Prep\Mid-Exam3\obj\Debug\net5.0\Mid-Exam3.genruntimeconfig.cache

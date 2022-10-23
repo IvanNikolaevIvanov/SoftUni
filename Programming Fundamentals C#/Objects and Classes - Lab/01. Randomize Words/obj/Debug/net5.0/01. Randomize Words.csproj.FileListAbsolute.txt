@@ -1,0 +1,16 @@
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.exe
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.deps.json
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.runtimeconfig.json
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.runtimeconfig.dev.json
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.dll
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\ref\01. Randomize Words.dll
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.pdb
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.csproj.AssemblyReference.cache
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.AssemblyInfoInputs.cache
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.AssemblyInfo.cs
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.csproj.CoreCompileInputs.cache
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.dll
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\ref\01. Randomize Words.dll
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.pdb
+C:\Users\Kras\source\repos\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.genruntimeconfig.cache

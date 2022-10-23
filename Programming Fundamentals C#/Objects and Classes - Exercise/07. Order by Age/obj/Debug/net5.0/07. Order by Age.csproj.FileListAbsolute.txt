@@ -1,0 +1,16 @@
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.exe
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.deps.json
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.runtimeconfig.json
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.runtimeconfig.dev.json
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.dll
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net5.0\ref\07. Order by Age.dll
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.pdb
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.csproj.AssemblyReference.cache
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.AssemblyInfoInputs.cache
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.AssemblyInfo.cs
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.csproj.CoreCompileInputs.cache
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.dll
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\ref\07. Order by Age.dll
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.pdb
+C:\Users\Kras\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "031. Moving Target/1.0.0": {
+        "runtime": {
+          "031. Moving Target.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "031. Moving Target/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

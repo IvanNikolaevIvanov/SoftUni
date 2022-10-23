@@ -1,0 +1,16 @@
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\bin\Debug\net5.0\3.1 Heroes of Code and Logic VII.exe
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\bin\Debug\net5.0\3.1 Heroes of Code and Logic VII.deps.json
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\bin\Debug\net5.0\3.1 Heroes of Code and Logic VII.runtimeconfig.json
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\bin\Debug\net5.0\3.1 Heroes of Code and Logic VII.runtimeconfig.dev.json
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\bin\Debug\net5.0\3.1 Heroes of Code and Logic VII.dll
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\bin\Debug\net5.0\ref\3.1 Heroes of Code and Logic VII.dll
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\bin\Debug\net5.0\3.1 Heroes of Code and Logic VII.pdb
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\obj\Debug\net5.0\3.1 Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\obj\Debug\net5.0\3.1 Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\obj\Debug\net5.0\3.1 Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\obj\Debug\net5.0\3.1 Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\obj\Debug\net5.0\3.1 Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\obj\Debug\net5.0\3.1 Heroes of Code and Logic VII.dll
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\obj\Debug\net5.0\ref\3.1 Heroes of Code and Logic VII.dll
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\obj\Debug\net5.0\3.1 Heroes of Code and Logic VII.pdb
+C:\Users\Kras\source\repos\Final-exam Prep\3.1 Heroes of Code and Logic VII\obj\Debug\net5.0\3.1 Heroes of Code and Logic VII.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.exe
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.deps.json
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.runtimeconfig.json
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.runtimeconfig.dev.json
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.dll
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\ref\06. Extract Emails.dll
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.pdb
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.csproj.AssemblyReference.cache
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.AssemblyInfoInputs.cache
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.AssemblyInfo.cs
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.dll
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\ref\06. Extract Emails.dll
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.pdb
+C:\Users\Kras\source\repos\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.genruntimeconfig.cache

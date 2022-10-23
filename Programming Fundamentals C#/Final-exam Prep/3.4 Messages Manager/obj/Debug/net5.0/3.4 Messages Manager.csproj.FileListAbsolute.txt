@@ -1,0 +1,16 @@
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\bin\Debug\net5.0\3.4 Messages Manager.exe
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\bin\Debug\net5.0\3.4 Messages Manager.deps.json
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\bin\Debug\net5.0\3.4 Messages Manager.runtimeconfig.json
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\bin\Debug\net5.0\3.4 Messages Manager.runtimeconfig.dev.json
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\bin\Debug\net5.0\3.4 Messages Manager.dll
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\bin\Debug\net5.0\ref\3.4 Messages Manager.dll
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\bin\Debug\net5.0\3.4 Messages Manager.pdb
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\obj\Debug\net5.0\3.4 Messages Manager.csproj.AssemblyReference.cache
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\obj\Debug\net5.0\3.4 Messages Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\obj\Debug\net5.0\3.4 Messages Manager.AssemblyInfoInputs.cache
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\obj\Debug\net5.0\3.4 Messages Manager.AssemblyInfo.cs
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\obj\Debug\net5.0\3.4 Messages Manager.csproj.CoreCompileInputs.cache
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\obj\Debug\net5.0\3.4 Messages Manager.dll
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\obj\Debug\net5.0\ref\3.4 Messages Manager.dll
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\obj\Debug\net5.0\3.4 Messages Manager.pdb
+C:\Users\Kras\source\repos\Final-exam Prep\3.4 Messages Manager\obj\Debug\net5.0\3.4 Messages Manager.genruntimeconfig.cache

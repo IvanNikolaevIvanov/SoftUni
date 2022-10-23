@@ -1,0 +1,16 @@
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\bin\Debug\net5.0\3.3 The Pianist.exe
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\bin\Debug\net5.0\3.3 The Pianist.deps.json
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\bin\Debug\net5.0\3.3 The Pianist.runtimeconfig.json
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\bin\Debug\net5.0\3.3 The Pianist.runtimeconfig.dev.json
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\bin\Debug\net5.0\3.3 The Pianist.dll
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\bin\Debug\net5.0\ref\3.3 The Pianist.dll
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\bin\Debug\net5.0\3.3 The Pianist.pdb
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\obj\Debug\net5.0\3.3 The Pianist.csproj.AssemblyReference.cache
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\obj\Debug\net5.0\3.3 The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\obj\Debug\net5.0\3.3 The Pianist.AssemblyInfoInputs.cache
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\obj\Debug\net5.0\3.3 The Pianist.AssemblyInfo.cs
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\obj\Debug\net5.0\3.3 The Pianist.csproj.CoreCompileInputs.cache
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\obj\Debug\net5.0\3.3 The Pianist.dll
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\obj\Debug\net5.0\ref\3.3 The Pianist.dll
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\obj\Debug\net5.0\3.3 The Pianist.pdb
+C:\Users\Kras\source\repos\Final-exam Prep\3.3 The Pianist\obj\Debug\net5.0\3.3 The Pianist.genruntimeconfig.cache

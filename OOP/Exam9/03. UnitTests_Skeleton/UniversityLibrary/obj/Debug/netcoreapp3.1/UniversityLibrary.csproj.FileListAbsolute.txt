@@ -1,0 +1,14 @@
+C:\Users\Kras\Downloads\Exam9\03. UnitTests_Skeleton\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.exe
+C:\Users\Kras\Downloads\Exam9\03. UnitTests_Skeleton\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.deps.json
+C:\Users\Kras\Downloads\Exam9\03. UnitTests_Skeleton\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.runtimeconfig.json
+C:\Users\Kras\Downloads\Exam9\03. UnitTests_Skeleton\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.runtimeconfig.dev.json
+C:\Users\Kras\Downloads\Exam9\03. UnitTests_Skeleton\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.dll
+C:\Users\Kras\Downloads\Exam9\03. UnitTests_Skeleton\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.pdb
+C:\Users\Kras\Downloads\Exam9\03. UnitTests_Skeleton\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.csproj.AssemblyReference.cache
+C:\Users\Kras\Downloads\Exam9\03. UnitTests_Skeleton\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\Downloads\Exam9\03. UnitTests_Skeleton\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.AssemblyInfoInputs.cache
+C:\Users\Kras\Downloads\Exam9\03. UnitTests_Skeleton\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.AssemblyInfo.cs
+C:\Users\Kras\Downloads\Exam9\03. UnitTests_Skeleton\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kras\Downloads\Exam9\03. UnitTests_Skeleton\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.dll
+C:\Users\Kras\Downloads\Exam9\03. UnitTests_Skeleton\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.pdb
+C:\Users\Kras\Downloads\Exam9\03. UnitTests_Skeleton\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.genruntimeconfig.cache

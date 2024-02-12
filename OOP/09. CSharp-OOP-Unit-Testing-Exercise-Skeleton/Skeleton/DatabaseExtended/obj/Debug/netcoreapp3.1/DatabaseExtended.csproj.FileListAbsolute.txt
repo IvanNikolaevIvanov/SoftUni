@@ -1,0 +1,10 @@
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.AssemblyReference.cache
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb

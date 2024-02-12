@@ -1,0 +1,15 @@
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\bin\Debug\net7.0\SimpleSnake.exe
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\bin\Debug\net7.0\SimpleSnake.deps.json
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\bin\Debug\net7.0\SimpleSnake.runtimeconfig.json
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\bin\Debug\net7.0\SimpleSnake.dll
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\bin\Debug\net7.0\SimpleSnake.pdb
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\net7.0\SimpleSnake.csproj.AssemblyReference.cache
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\net7.0\SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\net7.0\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\net7.0\SimpleSnake.AssemblyInfo.cs
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\net7.0\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\net7.0\SimpleSnake.dll
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\net7.0\refint\SimpleSnake.dll
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\net7.0\SimpleSnake.pdb
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\net7.0\SimpleSnake.genruntimeconfig.cache
+C:\Users\Kras\Downloads\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\net7.0\ref\SimpleSnake.dll

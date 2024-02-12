@@ -1,0 +1,10 @@
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.AssemblyReference.cache
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\Kras\Downloads\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb

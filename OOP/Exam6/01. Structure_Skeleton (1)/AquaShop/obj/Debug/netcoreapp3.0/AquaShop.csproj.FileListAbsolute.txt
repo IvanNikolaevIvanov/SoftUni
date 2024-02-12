@@ -1,0 +1,14 @@
+C:\Users\Kras\Downloads\Exam6\01. Structure_Skeleton (1)\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\Kras\Downloads\Exam6\01. Structure_Skeleton (1)\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\Kras\Downloads\Exam6\01. Structure_Skeleton (1)\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\Kras\Downloads\Exam6\01. Structure_Skeleton (1)\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\Kras\Downloads\Exam6\01. Structure_Skeleton (1)\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\Kras\Downloads\Exam6\01. Structure_Skeleton (1)\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\Kras\Downloads\Exam6\01. Structure_Skeleton (1)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.AssemblyReference.cache
+C:\Users\Kras\Downloads\Exam6\01. Structure_Skeleton (1)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kras\Downloads\Exam6\01. Structure_Skeleton (1)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\Kras\Downloads\Exam6\01. Structure_Skeleton (1)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\Kras\Downloads\Exam6\01. Structure_Skeleton (1)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\Kras\Downloads\Exam6\01. Structure_Skeleton (1)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\Kras\Downloads\Exam6\01. Structure_Skeleton (1)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\Kras\Downloads\Exam6\01. Structure_Skeleton (1)\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache

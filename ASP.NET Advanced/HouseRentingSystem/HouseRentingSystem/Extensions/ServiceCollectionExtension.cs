@@ -21,7 +21,8 @@ namespace Microsoft.Extensions.DependencyInjection
             services.AddDbContext<HouseRentingDbContext>(options =>
                 options.UseSqlServer(connectionString));
 
-            services.AddScoped<IRepository, Repository>(); 
+            services.AddScoped<IRepository, Repository>();
+            services.AddScoped<IAgentService, AgentService>();
 
             services.AddDatabaseDeveloperPageExceptionFilter();
 

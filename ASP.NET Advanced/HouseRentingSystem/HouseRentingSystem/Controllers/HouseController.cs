@@ -247,7 +247,6 @@ namespace HouseRentingSystem.Controllers
             }
 
            
-
             return RedirectToAction(nameof(All));
         }
 

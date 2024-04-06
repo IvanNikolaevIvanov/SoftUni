@@ -81,7 +81,7 @@ namespace HouseRentingSystem.Infrastructure.Data.SeedDb
                 LastName = "Admin"
             };
 
-            GuestUser.PasswordHash =
+            AdminUser.PasswordHash =
             hasher.HashPassword(AdminUser, "admin123");
         }
 

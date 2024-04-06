@@ -20,6 +20,8 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
 using static HouseRentingSystem.Infrastructure.Constants.ValidationConstants;
+using static HouseRentingSystem.Infrastructure.Constants.CustomClaims;
+
 
 namespace HouseRentingSystem.Areas.Identity.Pages.Account
 {
@@ -135,6 +137,7 @@ namespace HouseRentingSystem.Areas.Identity.Pages.Account
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User created a new account with password.");
+                    await _userManager.AddClaimAsync(user, new System.Security.Claims.Claim(UserFullNameClaim, $"{user.FirstName} {user.LastName}"));
 
                     var userId = await _userManager.GetUserIdAsync(user);
                     var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);

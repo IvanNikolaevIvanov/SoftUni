@@ -12,5 +12,10 @@
         public Node Next { get; set; }
 
         public Node Previous { get; set; }
+
+        public override string ToString()
+        {
+            return Value.ToString();
+        }
     }
 }

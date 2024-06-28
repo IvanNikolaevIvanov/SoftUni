@@ -12,12 +12,14 @@ public class Program
         linkedList.AddLast(new Node(3));
         linkedList.AddLast(new Node(4));
 
-        Node currentNode = linkedList.Head;
+        //linkedList.RemoveFirst();
+        //linkedList.RemoveLast();
 
-        while (currentNode != null)
+        linkedList.ForEach(number =>
         {
-            Console.WriteLine(currentNode.Value);
-            currentNode = currentNode.Next;
-        }
+            Console.WriteLine($"Each number in list: {number}");
+        });
+
+        Console.WriteLine(String.Join(", ", linkedList.ToArray()));
     }
 }

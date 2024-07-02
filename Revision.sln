@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Multidimentional Arrays"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Func Programming", "Streams, Files and Directories\Func Programming.csproj", "{6007950E-0D93-4D62-90BC-EEAB77D920B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{7C5199EA-0D4E-407B-85BF-6115D6513972}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "LinkedList\LinkedList.csproj", "{7C5199EA-0D4E-407B-85BF-6115D6513972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complexity", "Complexity\Complexity.csproj", "{5714053F-23AE-4306-A58E-3FA059604E42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7C5199EA-0D4E-407B-85BF-6115D6513972}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C5199EA-0D4E-407B-85BF-6115D6513972}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C5199EA-0D4E-407B-85BF-6115D6513972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5714053F-23AE-4306-A58E-3FA059604E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5714053F-23AE-4306-A58E-3FA059604E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5714053F-23AE-4306-A58E-3FA059604E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5714053F-23AE-4306-A58E-3FA059604E42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

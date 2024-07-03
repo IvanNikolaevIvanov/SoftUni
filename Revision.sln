@@ -11,13 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Func Programming", "Stre
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.LinkedList", "LinkedList\03.LinkedList.csproj", "{7C5199EA-0D4E-407B-85BF-6115D6513972}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Complexity", "Complexity\05.Complexity.csproj", "{5714053F-23AE-4306-A58E-3FA059604E42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Complexity", "Complexity\05.Complexity.csproj", "{5714053F-23AE-4306-A58E-3FA059604E42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Recursion", "Recursion\06.Recursion.csproj", "{C2BB0C74-9E07-4FCA-84DD-9E445F845469}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Recursion", "Recursion\06.Recursion.csproj", "{C2BB0C74-9E07-4FCA-84DD-9E445F845469}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "061.RecursiveArraySum", "061.RecursiveArraySum\061.RecursiveArraySum.csproj", "{D71CFFC7-567C-4A97-AB2B-9AB794B94490}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "061.RecursiveArraySum", "061.RecursiveArraySum\061.RecursiveArraySum.csproj", "{D71CFFC7-567C-4A97-AB2B-9AB794B94490}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "062.Fibonacci", "062.Fibonacci\062.Fibonacci.csproj", "{CF8ED896-DA66-43D6-994F-560C8C2DAF12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "062.Fibonacci", "062.Fibonacci\062.Fibonacci.csproj", "{CF8ED896-DA66-43D6-994F-560C8C2DAF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SortingAlgorithms", "07.SortingAlgorithms\07.SortingAlgorithms.csproj", "{B4C609A1-A5AB-4355-8D30-978E706AAD28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{CF8ED896-DA66-43D6-994F-560C8C2DAF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF8ED896-DA66-43D6-994F-560C8C2DAF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF8ED896-DA66-43D6-994F-560C8C2DAF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C609A1-A5AB-4355-8D30-978E706AAD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C609A1-A5AB-4355-8D30-978E706AAD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C609A1-A5AB-4355-8D30-978E706AAD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C609A1-A5AB-4355-8D30-978E706AAD28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

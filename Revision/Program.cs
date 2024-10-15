@@ -29,3 +29,34 @@ for (int i = 0; i < input.Length; i++)
 
 Console.WriteLine(result);
 
+
+// static bool Comparison(string StringA, string StringB)
+//{
+//    var isAnagram = false;
+
+//    var firstString = StringA.ToLower();
+//    var secondString = StringB.ToLower();
+
+//    if (StringA.Length != StringB.Length)
+//    {
+//        return false;
+//    }
+
+//    for (int i = 0; i < firstString.Length; i++)
+//    {
+//        var firstStringSymbol = StringA[i];
+
+//        for (int j = 0; j < secondString.Length; j++)
+//        {
+//            var secondStringSymbol = secondString[j];
+
+//            if (firstStringSymbol == secondStringSymbol)
+//            {
+//                isAnagram = true;
+//            }
+//        }
+
+//    }
+
+//    return isAnagram;
+// }
